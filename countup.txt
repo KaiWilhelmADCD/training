@@ -20,6 +20,7 @@ Number	Cardinal	Ordinal
 18	eighteen	eighteenth
 19	nineteen	nineteenth
 20	twenty		twentieth
+21	twentyone	twentyfirst
 
 Nombres (Los números) d'espagnol
 --------------------------
