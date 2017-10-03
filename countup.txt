@@ -23,7 +23,6 @@ Number	Cardinal	Ordinal
 21	twentyone	twentyfirst
 22	twentytwo	twentysecond
 23	twentythree	twentythird
-24	mistake		mistaken
 24	twentyfour	twentyfourth
 25	twentyfive	twentyfifth
 
