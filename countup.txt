@@ -24,6 +24,7 @@ Number	Cardinal	Ordinal
 22	twentytwo	twentysecond
 23	twentythree	twentythird
 24	mistake		mistaken
+24	twentyfour	twentyfourth
 
 Nombres (Los números) d'espagnol
 --------------------------
