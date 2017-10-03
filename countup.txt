@@ -28,6 +28,7 @@ Number	Cardinal	Ordinal
 25	twentyfive	twentyfifth
 26
 27
+28
 
 Nombres (Los números) d'espagnol
 --------------------------
