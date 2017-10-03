@@ -1,4 +1,4 @@
-Number	Cardinal	Ordinal
+Number	Cardinal #	Ordinal #
 -----------------------------------
 1	one		first
 2	two		second
