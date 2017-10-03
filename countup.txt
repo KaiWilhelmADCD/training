@@ -22,6 +22,7 @@ Number	Cardinal	Ordinal
 20	twenty		twentieth
 21	twentyone	twentyfirst
 22	twentytwo	twentysecond
+23	twentythree	twentythird
 
 Nombres (Los números) d'espagnol
 --------------------------
