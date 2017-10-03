@@ -18,7 +18,6 @@ Number	Cardinal	Ordinal
 16	sixteen		sixteenth
 17	seventeen	seventeenth
 18	eighteen	eighteenth
-18.3	bug		bug
 19	nineteen	nineteenth
 20	twenty		twentieth
 21	twentyone	twentyfirst
